@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Train-O-Gram:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Train-O-Gram</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Train-O-Gram-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Train-O-Gram:war exploded" />
+    </root>
+  </artifact>
+</component>
